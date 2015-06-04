@@ -3,13 +3,13 @@
 *.so
 *.class
 *.lprof
+log
+*.log
 *~
 build/
 /dist/
 MANIFEST
-/tornado.egg-info/
+*.egg-info/
 .tox/
 .vagrant
-/.coverage
-/htmlcov/
 /env/
