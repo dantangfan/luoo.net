@@ -11,7 +11,7 @@ setup(
         author_email='dantangfan@github.com',
         url='http://github.com/dantangfan/luoo.net',
         license='LGPL',
-        packages=find_packages(),
+        packages=['luoo'],
         zip_safe=True,
         install_requires=['BeautifulSoup'],
         entry_points={
